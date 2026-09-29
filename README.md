@@ -1,1 +1,1 @@
-Como a base de que la fruta llegue sucia el cosigo trabaja llamando en si misma a las clases para poder trabajar cone llas así hasta llegar a que la fruta ya se vuelva comestible.
+Como a base de que la fruta llegue sucia el codigo trabaja llamando en si misma a las clases para poder trabajar con ellas, aca entra la recursividad dentro del codigo así hasta llegar a que la fruta ya se vuelva comestible.
