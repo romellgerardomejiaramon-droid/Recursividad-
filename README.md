@@ -6,4 +6,6 @@ Hace la llamada interna "Húmeda": La función se llama a sí misma con la palab
 
 Hace la llamada externa ("Limpia y Seca"): Con la lavada lista, ejecuta la segunda llamada a sí misma con "Limpia y Seca", alcanzando la última condición para confirmar que la fruta ya se puede comer.
 
-Finaliza: Devuelve la respuesta final "Fruta perfecta para comer".
+Finaliza: Devuelve la respuesta final que nos dice que la "Fruta perfecta para comer" y listo.
+
+Así es el mecanismo de cómo trabaja el código empleando la recursividad 
